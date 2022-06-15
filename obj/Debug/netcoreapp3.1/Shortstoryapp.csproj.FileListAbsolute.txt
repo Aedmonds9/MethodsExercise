@@ -1,0 +1,14 @@
+C:\Users\brode\source\repos\Shortstoryapp\Shortstoryapp\obj\Debug\netcoreapp3.1\Shortstoryapp.csproj.AssemblyReference.cache
+C:\Users\brode\source\repos\Shortstoryapp\Shortstoryapp\obj\Debug\netcoreapp3.1\Shortstoryapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brode\source\repos\Shortstoryapp\Shortstoryapp\obj\Debug\netcoreapp3.1\Shortstoryapp.AssemblyInfoInputs.cache
+C:\Users\brode\source\repos\Shortstoryapp\Shortstoryapp\obj\Debug\netcoreapp3.1\Shortstoryapp.AssemblyInfo.cs
+C:\Users\brode\source\repos\Shortstoryapp\Shortstoryapp\obj\Debug\netcoreapp3.1\Shortstoryapp.csproj.CoreCompileInputs.cache
+C:\Users\brode\source\repos\Shortstoryapp\Shortstoryapp\bin\Debug\netcoreapp3.1\Shortstoryapp.exe
+C:\Users\brode\source\repos\Shortstoryapp\Shortstoryapp\bin\Debug\netcoreapp3.1\Shortstoryapp.deps.json
+C:\Users\brode\source\repos\Shortstoryapp\Shortstoryapp\bin\Debug\netcoreapp3.1\Shortstoryapp.runtimeconfig.json
+C:\Users\brode\source\repos\Shortstoryapp\Shortstoryapp\bin\Debug\netcoreapp3.1\Shortstoryapp.runtimeconfig.dev.json
+C:\Users\brode\source\repos\Shortstoryapp\Shortstoryapp\bin\Debug\netcoreapp3.1\Shortstoryapp.dll
+C:\Users\brode\source\repos\Shortstoryapp\Shortstoryapp\bin\Debug\netcoreapp3.1\Shortstoryapp.pdb
+C:\Users\brode\source\repos\Shortstoryapp\Shortstoryapp\obj\Debug\netcoreapp3.1\Shortstoryapp.dll
+C:\Users\brode\source\repos\Shortstoryapp\Shortstoryapp\obj\Debug\netcoreapp3.1\Shortstoryapp.pdb
+C:\Users\brode\source\repos\Shortstoryapp\Shortstoryapp\obj\Debug\netcoreapp3.1\Shortstoryapp.genruntimeconfig.cache
